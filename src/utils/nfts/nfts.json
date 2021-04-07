@@ -1,5 +1,23 @@
 [
     {
+      "img": "https://gateway.pinata.cloud/ipfs/QmQcneRRidPPw9rSaptg34Yeq9WVmDSHNiCpqb2KcbtdtK/nifty_shades_01_mona_lisa_sol.gif",
+      "imgSmall": "https://gateway.pinata.cloud/ipfs/Qmb4mJ46MauC6r5XgeBsAezsSp17VW5fcoQqxhoXcFJbQ5/nifty_shades_01_mona_lisa_icon.gif",
+      "name": "Nifty Shades 01 - Mona Smile [1 of 1]",
+      "supply": 1,
+      "mintAddress": "HkAg8W4Sf48JaHA8T1PYfmbeErPSmVmSgwmU9v7JMEn",
+      "marketAddress": "2Tz8smL1EuFveSzJxozNHxWRQsms4H3NjmRFVfjHszZQ",
+      "redeembable": false,
+      "keywords": [
+        "Nifty",
+        "Shades",
+        "Mona",
+        "Smile",
+        "Lisa",
+        "1 of 1"
+      ],
+      "type": "VIDEO"
+    },
+    {
       "img": "https://gateway.pinata.cloud/ipfs/QmU2RR48LwpGoskQe8pdJoqAS9n32LD6uaRX4CExjSCyvU/cope.png",
       "imgSmall": "https://gateway.pinata.cloud/ipfs/QmaFoYJ2SPbth7Cx9zQkAQQWd2NWeTkQrEAH2CBJraNpXv/cope-preview.png",
       "name": "Share a Cope",
