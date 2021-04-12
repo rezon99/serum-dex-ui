@@ -485,4 +485,18 @@
   ],
   "type": "IMAGE"
 }
+{
+  "img": "QmZrk9cDvzWBtzADS2Jdxy3C8rWmB6pfsJqVvGKEj11Jhd",
+  "imgSmall": "QmZrsZ1UdkgyfMyr6rMwan3LHzKnSqrxqeLn5pqXSsjVbr",
+  "name": "Rainbow Shrimp",
+  "supply": 10000,
+  "mintAddress": "A1d5v2p96wybbyUMi9VNp9S1cTHe2ghxnBneu1ibt7hF",
+  "marketAddress": "BBrTzZE4kZ5yfMmPqLF2ssUv5oNAhQfNvdpAYWG3eKky",
+  "redeembable": false,
+  "keywords": [
+    "Rainbow",
+    "Shrimp"
+  ],
+  "type": "IMAGE"
+}
   ]
