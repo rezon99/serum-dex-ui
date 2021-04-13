@@ -1,4 +1,17 @@
-[
+[{
+  "img": "https://gateway.pinata.cloud/ipfs/QmYcbmPttwYFcJEh2hfKogQYyuvLFnJk2p3PvkyA1TPuEV",
+  "imgSmall": "https://gateway.pinata.cloud/ipfs/QmYcbmPttwYFcJEh2hfKogQYyuvLFnJk2p3PvkyA1TPuEV",
+  "name": "supernatural being",
+  "supply": 1,
+  "mintAddress": "DdGkJ7FwHzkuba5QgJBLBBagNgSXZuxQMN1c2ujfMFdm",
+  "marketAddress": "CABp3K48BHGgUuDXDJvRp5CEfvzXtkdTwSa8oJRyYXH7",
+  "redeembable": false,
+  "keywords": [
+    "supernatural",
+    "being"
+  ],
+  "type": "IMAGE"
+},
   {
     "img": "https://gateway.pinata.cloud/ipfs/QmUHzhVg8whGFpvrwSGA9VHu76QUxn1kp9mwbkn1S7e8fG",
     "imgSmall": "https://gateway.pinata.cloud/ipfs/QmNw6sfE9h34usRgSQft5ChPfqjcXftiX6a1XpwtWKGvbS",
