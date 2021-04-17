@@ -394,5 +394,21 @@
     "redeembable": false,
     "keywords": ["matin", "de", "paris"],
     "type": "IMAGE"
-  }
+  },
+  {
+  "img": "https://gateway.pinata.cloud/ipfs/Qmb31ur5iEEUSurYjMoWnJb99wxWvUwMP3TqqosuJFqVud/ssolana.png",
+  "imgSmall": "https://gateway.pinata.cloud/ipfs/Qmc8F2ix44TNGWdgxpmgHuXqAivRHUvrEm1DkUcifCTbG1/ssolana-thumb.png",
+  "name": "ssolana - Binder Worthy",
+  "supply": 1,
+  "mintAddress": "FkPWLfAEzzY1yDa15NCyJ5apGzEt8RYgnFm4pTXE2sGd",
+  "marketAddress": "EbgpHpcqSUg5P6vit1EopCGyeL1yz6jf2kpXhjfRX7Gd",
+  "redeembable": false,
+  "keywords": [
+    "ssolana",
+    "-",
+    "Binder",
+    "Worthy"
+  ],
+  "type": "IMAGE"
+}
 ]
