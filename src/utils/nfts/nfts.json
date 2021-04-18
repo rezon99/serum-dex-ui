@@ -76,7 +76,7 @@
     "keywords": ["need", "speed", "front"],
     "type": "VIDEO"
   },
-  {{
+  {
   "img": "https://gateway.pinata.cloud/ipfs/QmdYbmeXY1E1VpqywZcFv8tL6ad3j46aXY1fisvu78hkSY",
   "imgSmall": "https://gateway.pinata.cloud/ipfs/QmZBJRoCwvEr4mXFxjiijyrtN2o741J4ZxhKtJk4Tf9eRd",
   "name": "Dang Ol' NFT",
@@ -90,7 +90,8 @@
     "NFT"
   ],
   "type": "IMAGE"
-}
+},
+{
     "img": "https://gateway.pinata.cloud/ipfs/QmfFrkRRv4Lanpe3dEK3p1rRdKwspZXh8kBWLXZBRJaRyy/AcstFzGGawvvdVhYV9bftr7fmBHbePUjhv53YK1W3dZo/AcstFzGGawvvdVhYV9bftr7fmBHbePUjhv53YK1W3dZo.gif",
     "imgSmall": "https://gateway.pinata.cloud/ipfs/QmfFrkRRv4Lanpe3dEK3p1rRdKwspZXh8kBWLXZBRJaRyy/AcstFzGGawvvdVhYV9bftr7fmBHbePUjhv53YK1W3dZo/small.mp4",
     "name": "LSD",
