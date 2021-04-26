@@ -77,21 +77,17 @@
     "type": "VIDEO"
   },
   {
-  "img": "https://gateway.pinata.cloud/ipfs/QmdYbmeXY1E1VpqywZcFv8tL6ad3j46aXY1fisvu78hkSY",
-  "imgSmall": "https://gateway.pinata.cloud/ipfs/QmZBJRoCwvEr4mXFxjiijyrtN2o741J4ZxhKtJk4Tf9eRd",
-  "name": "Dang Ol' NFT",
-  "supply": 1,
-  "mintAddress": "3wrYKrLVSA2M29uwXB2Lf3FvyWfUwcaaoHkoM4thX7sy",
-  "marketAddress": "B5iXoRiu28fM8gEsrjNG6tvhxZKSx8wUQPFoSnMXxggJ",
-  "redeembable": false,
-  "keywords": [
-    "Dang",
-    "Ol'",
-    "NFT"
-  ],
-  "type": "IMAGE"
-},
-{
+    "img": "https://gateway.pinata.cloud/ipfs/QmdYbmeXY1E1VpqywZcFv8tL6ad3j46aXY1fisvu78hkSY",
+    "imgSmall": "https://gateway.pinata.cloud/ipfs/QmZBJRoCwvEr4mXFxjiijyrtN2o741J4ZxhKtJk4Tf9eRd",
+    "name": "Dang Ol' NFT",
+    "supply": 1,
+    "mintAddress": "3wrYKrLVSA2M29uwXB2Lf3FvyWfUwcaaoHkoM4thX7sy",
+    "marketAddress": "B5iXoRiu28fM8gEsrjNG6tvhxZKSx8wUQPFoSnMXxggJ",
+    "redeembable": false,
+    "keywords": ["Dang", "Ol'", "NFT"],
+    "type": "IMAGE"
+  },
+  {
     "img": "https://gateway.pinata.cloud/ipfs/QmfFrkRRv4Lanpe3dEK3p1rRdKwspZXh8kBWLXZBRJaRyy/AcstFzGGawvvdVhYV9bftr7fmBHbePUjhv53YK1W3dZo/AcstFzGGawvvdVhYV9bftr7fmBHbePUjhv53YK1W3dZo.gif",
     "imgSmall": "https://gateway.pinata.cloud/ipfs/QmfFrkRRv4Lanpe3dEK3p1rRdKwspZXh8kBWLXZBRJaRyy/AcstFzGGawvvdVhYV9bftr7fmBHbePUjhv53YK1W3dZo/small.mp4",
     "name": "LSD",
@@ -411,47 +407,36 @@
     "type": "IMAGE"
   },
   {
-  "img": "https://gateway.pinata.cloud/ipfs/Qmb31ur5iEEUSurYjMoWnJb99wxWvUwMP3TqqosuJFqVud/ssolana.png",
-  "imgSmall": "https://gateway.pinata.cloud/ipfs/Qmc8F2ix44TNGWdgxpmgHuXqAivRHUvrEm1DkUcifCTbG1/ssolana-thumb.png",
-  "name": "ssolana - Binder Worthy",
-  "supply": 1,
-  "mintAddress": "FkPWLfAEzzY1yDa15NCyJ5apGzEt8RYgnFm4pTXE2sGd",
-  "marketAddress": "EbgpHpcqSUg5P6vit1EopCGyeL1yz6jf2kpXhjfRX7Gd",
-  "redeembable": false,
-  "keywords": [
-    "ssolana",
-    "-",
-    "Binder",
-    "Worthy"
-  ],
-  "type": "IMAGE"
-},
+    "img": "https://gateway.pinata.cloud/ipfs/Qmb31ur5iEEUSurYjMoWnJb99wxWvUwMP3TqqosuJFqVud/ssolana.png",
+    "imgSmall": "https://gateway.pinata.cloud/ipfs/Qmc8F2ix44TNGWdgxpmgHuXqAivRHUvrEm1DkUcifCTbG1/ssolana-thumb.png",
+    "name": "ssolana - Binder Worthy",
+    "supply": 1,
+    "mintAddress": "FkPWLfAEzzY1yDa15NCyJ5apGzEt8RYgnFm4pTXE2sGd",
+    "marketAddress": "EbgpHpcqSUg5P6vit1EopCGyeL1yz6jf2kpXhjfRX7Gd",
+    "redeembable": false,
+    "keywords": ["ssolana", "-", "Binder", "Worthy"],
+    "type": "IMAGE"
+  },
   {
-  "img": "https://gateway.pinata.cloud/ipfs/QmdHoEu1Hk499SZkwZqKF6pZgPPoes2f5jd1re9vBjxUkU/kin-honey-badger-nft-large.png",
-  "imgSmall": "https://gateway.pinata.cloud/ipfs/QmaenU7qQEwZcJCsvorn2JK7Y3C1Z72GFhqEdNt3Ps63sZ/kin-honey-badger-nft-small.png",
-  "name": "Kin Honey Badger",
-  "supply": 99,
-  "mintAddress": "GdV96uPgy63TambxmCw9ZMq9jSYg8zcSfsXPJz1ZJ4E3",
-  "marketAddress": "HHiw9J5a2SfaJfEMm6PDmveVSSnTHMN7FzT7GcA7uj8M",
-  "redeembable": false,
-  "keywords": [
-    "Kin",
-    "Honey",
-    "Badger"
-  ],
-  "type": "IMAGE"
-},
-    {
-  "img": "QmduJhQBpb2kgkNikTtKDwAu7FTWy6wuGJ1xZBbaxJZXTt",
-  "imgSmall": "QmduJhQBpb2kgkNikTtKDwAu7FTWy6wuGJ1xZBbaxJZXTt",
-  "name": "BitPortrait",
-  "supply": 10,
-  "mintAddress": "4r92V7yBKR2pAGKuXcqdq331TPmzw8Grm5qWQDxKRLQE",
-  "marketAddress": "AeQU7c3MKE9m7QCgQQwbXnxr7zxW55WJAHrCCKBrFJhY",
-  "redeembable": false,
-  "keywords": [
-    "BitPortrait"
-  ],
-  "type": "IMAGE"
-}
+    "img": "https://gateway.pinata.cloud/ipfs/QmdHoEu1Hk499SZkwZqKF6pZgPPoes2f5jd1re9vBjxUkU/kin-honey-badger-nft-large.png",
+    "imgSmall": "https://gateway.pinata.cloud/ipfs/QmaenU7qQEwZcJCsvorn2JK7Y3C1Z72GFhqEdNt3Ps63sZ/kin-honey-badger-nft-small.png",
+    "name": "Kin Honey Badger",
+    "supply": 99,
+    "mintAddress": "GdV96uPgy63TambxmCw9ZMq9jSYg8zcSfsXPJz1ZJ4E3",
+    "marketAddress": "HHiw9J5a2SfaJfEMm6PDmveVSSnTHMN7FzT7GcA7uj8M",
+    "redeembable": false,
+    "keywords": ["Kin", "Honey", "Badger"],
+    "type": "IMAGE"
+  },
+  {
+    "img": "QmduJhQBpb2kgkNikTtKDwAu7FTWy6wuGJ1xZBbaxJZXTt",
+    "imgSmall": "QmduJhQBpb2kgkNikTtKDwAu7FTWy6wuGJ1xZBbaxJZXTt",
+    "name": "BitPortrait",
+    "supply": 10,
+    "mintAddress": "4r92V7yBKR2pAGKuXcqdq331TPmzw8Grm5qWQDxKRLQE",
+    "marketAddress": "AeQU7c3MKE9m7QCgQQwbXnxr7zxW55WJAHrCCKBrFJhY",
+    "redeembable": false,
+    "keywords": ["BitPortrait"],
+    "type": "IMAGE"
+  }
 ]
