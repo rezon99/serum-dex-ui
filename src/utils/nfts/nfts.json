@@ -409,7 +409,7 @@
   {
     "img": "https://gateway.pinata.cloud/ipfs/Qmb31ur5iEEUSurYjMoWnJb99wxWvUwMP3TqqosuJFqVud/ssolana.png",
     "imgSmall": "https://gateway.pinata.cloud/ipfs/Qmc8F2ix44TNGWdgxpmgHuXqAivRHUvrEm1DkUcifCTbG1/ssolana-thumb.png",
-    "name": "ssolana - Binder Worthy",
+    "name": "Solana - Binder Worthy",
     "supply": 1,
     "mintAddress": "FkPWLfAEzzY1yDa15NCyJ5apGzEt8RYgnFm4pTXE2sGd",
     "marketAddress": "EbgpHpcqSUg5P6vit1EopCGyeL1yz6jf2kpXhjfRX7Gd",
@@ -429,8 +429,8 @@
     "type": "IMAGE"
   },
   {
-    "img": "QmduJhQBpb2kgkNikTtKDwAu7FTWy6wuGJ1xZBbaxJZXTt",
-    "imgSmall": "QmduJhQBpb2kgkNikTtKDwAu7FTWy6wuGJ1xZBbaxJZXTt",
+    "img": "https://gateway.pinata.cloud/ipfs/QmduJhQBpb2kgkNikTtKDwAu7FTWy6wuGJ1xZBbaxJZXTt",
+    "imgSmall": "https://gateway.pinata.cloud/ipfs/QmduJhQBpb2kgkNikTtKDwAu7FTWy6wuGJ1xZBbaxJZXTt",
     "name": "BitPortrait",
     "supply": 10,
     "mintAddress": "4r92V7yBKR2pAGKuXcqdq331TPmzw8Grm5qWQDxKRLQE",
