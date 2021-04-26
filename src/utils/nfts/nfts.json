@@ -425,5 +425,20 @@
     "Worthy"
   ],
   "type": "IMAGE"
+},
+  {
+  "img": "https://gateway.pinata.cloud/ipfs/QmdHoEu1Hk499SZkwZqKF6pZgPPoes2f5jd1re9vBjxUkU/kin-honey-badger-nft-large.png",
+  "imgSmall": "https://gateway.pinata.cloud/ipfs/QmaenU7qQEwZcJCsvorn2JK7Y3C1Z72GFhqEdNt3Ps63sZ/kin-honey-badger-nft-small.png",
+  "name": "Kin Honey Badger",
+  "supply": 99,
+  "mintAddress": "GdV96uPgy63TambxmCw9ZMq9jSYg8zcSfsXPJz1ZJ4E3",
+  "marketAddress": "HHiw9J5a2SfaJfEMm6PDmveVSSnTHMN7FzT7GcA7uj8M",
+  "redeembable": false,
+  "keywords": [
+    "Kin",
+    "Honey",
+    "Badger"
+  ],
+  "type": "IMAGE"
 }
 ]
