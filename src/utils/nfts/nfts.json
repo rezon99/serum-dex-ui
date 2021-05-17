@@ -1,5 +1,38 @@
 [
   {
+    "img": "https://gateway.pinata.cloud/ipfs/Qmc8c9oSiLPp3Yn9w1StNnUCxgYaR5g4gPwpVBBfj1Nq3H/competition-1.jpg",
+    "imgSmall": "https://gateway.pinata.cloud/ipfs/QmSxvrX5Y1VcP1GKvBd679ibdQzGhsM8J4j2KmViYYcFXT/competition-1-small.jpg",
+    "name": "Bot Competition #1",
+    "supply": 10,
+    "mintAddress": "3HuA7TpmjuEgdN2vcVrT5S9LNtFZKpKiKTewzxUA9Ub3",
+    "marketAddress": "37W5PKKEEf2EMu9uZTfpw1ZQYkYZ7zKYXmY1kyhqNgvP",
+    "redeembable": false,
+    "keywords": ["bot", "competition"],
+    "type": "IMAGE"
+  },
+  {
+    "img": "https://gateway.pinata.cloud/ipfs/Qmc8c9oSiLPp3Yn9w1StNnUCxgYaR5g4gPwpVBBfj1Nq3H/competition-2.jpg",
+    "imgSmall": "https://gateway.pinata.cloud/ipfs/QmSxvrX5Y1VcP1GKvBd679ibdQzGhsM8J4j2KmViYYcFXT/competition-2-small.jpg",
+    "name": "Bot Competition #2",
+    "supply": 10,
+    "mintAddress": "8YVjFh8hpmMFCx1bsfwMHd9qqpsztX1Bttz4sqvgk2fi",
+    "marketAddress": "669RqMUmEqK1NhSTEH88bvbhGwFzD7Kfww95azpm95aC",
+    "redeembable": false,
+    "keywords": ["bot", "competition"],
+    "type": "IMAGE"
+  },
+  {
+    "img": "https://gateway.pinata.cloud/ipfs/Qmc8c9oSiLPp3Yn9w1StNnUCxgYaR5g4gPwpVBBfj1Nq3H/competition-3.jpg",
+    "imgSmall": "https://gateway.pinata.cloud/ipfs/QmSxvrX5Y1VcP1GKvBd679ibdQzGhsM8J4j2KmViYYcFXT/competition-3-small.jpg",
+    "name": "Bot Competition #3",
+    "supply": 10,
+    "mintAddress": "BS8bv4MBdcRrnN7RLxFKvUr9JY49KsqCfbeNgtqzwybm",
+    "marketAddress": "AKPjhemUadaLV57FwWL1qsdzcP9u4XqYS28hpWn5Xh52",
+    "redeembable": false,
+    "keywords": ["bot", "competition"],
+    "type": "IMAGE"
+  },
+  {
     "img": "https://gateway.pinata.cloud/ipfs/QmYcbmPttwYFcJEh2hfKogQYyuvLFnJk2p3PvkyA1TPuEV",
     "imgSmall": "https://gateway.pinata.cloud/ipfs/QmYcbmPttwYFcJEh2hfKogQYyuvLFnJk2p3PvkyA1TPuEV",
     "name": "supernatural being",
