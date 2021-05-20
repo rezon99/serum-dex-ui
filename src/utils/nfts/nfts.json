@@ -471,5 +471,18 @@
     "redeembable": false,
     "keywords": ["BitPortrait"],
     "type": "IMAGE"
-  }
+  },
+  {
+  "img": "https://ipfs.io/ipfs/QmRoFasvqJ5hKVxGVoxbXpwgud7HTwowZGf7zchqhsvF8C?filename=NFT_1_Bitcoin.png",
+  "imgSmall": "https://ipfs.io/ipfs/QmRoFasvqJ5hKVxGVoxbXpwgud7HTwowZGf7zchqhsvF8C?filename=NFT_1_Bitcoin.png",
+  "name": "Avx",
+  "supply": 1000,
+  "mintAddress": "2QhVLQqQexxMEVd88bTbV8cpnM2UzDA44ooCi6V7BSD9",
+  "marketAddress": "3coCmjGjYJqSFCos3mP9zWJyVgtu1VJSQtw3kgHv8Reb",
+  "redeembable": false,
+  "keywords": [
+    "Avx"
+  ],
+  "type": "IMAGE"
+}
 ]
