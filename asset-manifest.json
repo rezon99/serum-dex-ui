@@ -4,11 +4,11 @@
     "main.js": "./static/js/main.e87c18a3.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.17bdf1eb.js",
     "static/css/2.3895751f.chunk.css": "./static/css/2.3895751f.chunk.css",
-    "static/js/2.7a8102fe.chunk.js": "./static/js/2.7a8102fe.chunk.js",
+    "static/js/2.7cb6999e.chunk.js": "./static/js/2.7cb6999e.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.934e6e29088ce041631df8c3c552d9a6.js": "./precache-manifest.934e6e29088ce041631df8c3c552d9a6.js",
+    "precache-manifest.1088edecc9456fad368a90e4e42b60a5.js": "./precache-manifest.1088edecc9456fad368a90e4e42b60a5.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.7a8102fe.chunk.js.LICENSE.txt": "./static/js/2.7a8102fe.chunk.js.LICENSE.txt",
+    "static/js/2.7cb6999e.chunk.js.LICENSE.txt": "./static/js/2.7cb6999e.chunk.js.LICENSE.txt",
     "static/media/1inch.png": "./static/media/1inch.04624784.png",
     "static/media/aave.svg": "./static/media/aave.9c2f9057.svg",
     "static/media/ape-szn-hoodie.jpg": "./static/media/ape-szn-hoodie.c73349b1.jpg",
@@ -54,7 +54,7 @@
   "entrypoints": [
     "static/js/runtime-main.17bdf1eb.js",
     "static/css/2.3895751f.chunk.css",
-    "static/js/2.7a8102fe.chunk.js",
+    "static/js/2.7cb6999e.chunk.js",
     "static/css/main.f440a6db.chunk.css",
     "static/js/main.e87c18a3.chunk.js"
   ]
