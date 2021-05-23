@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b5c132aadf4d6f174589cb85ac386c0",
+    "revision": "b7a0df842e5b1a3948ecbe44b8cf4cf2",
     "url": "./index.html"
   },
   {
-    "revision": "81f8eec211ab87c5914b",
+    "revision": "2f07a4f3a0dfe323faaa",
     "url": "./static/css/2.3895751f.chunk.css"
   },
   {
-    "revision": "c04a64ba4cf8570f0492",
+    "revision": "554243aecfd012df5398",
     "url": "./static/css/main.f440a6db.chunk.css"
   },
   {
-    "revision": "81f8eec211ab87c5914b",
-    "url": "./static/js/2.7cb6999e.chunk.js"
+    "revision": "2f07a4f3a0dfe323faaa",
+    "url": "./static/js/2.3590126a.chunk.js"
   },
   {
     "revision": "e31c73fb3888b881dff3a82ea5fa2e15",
-    "url": "./static/js/2.7cb6999e.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.3590126a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c04a64ba4cf8570f0492",
-    "url": "./static/js/main.e87c18a3.chunk.js"
+    "revision": "554243aecfd012df5398",
+    "url": "./static/js/main.75a2f655.chunk.js"
   },
   {
     "revision": "8049fe0a1a69c67a7ca5",
@@ -152,8 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/raydium-logo.8dc6ab8e.svg"
   },
   {
-    "revision": "45a88b8bda0b2f9a39fc10e1b6346266",
-    "url": "./static/media/rope.45a88b8b.svg"
+    "revision": "0087b97e83aa08bd9eda77231fd8ed4c",
+    "url": "./static/media/rope.0087b97e.svg"
   },
   {
     "revision": "1bb969bd08bef812ffef8bb587e20ca7",
