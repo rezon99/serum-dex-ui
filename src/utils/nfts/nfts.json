@@ -471,5 +471,20 @@
     "redeembable": false,
     "keywords": ["BitPortrait"],
     "type": "IMAGE"
+  },
+  {
+  "img": "https://gateway.pinata.cloud/ipfs/Qmc5XBXd29b9RLUPQ3xb9SbWSaFWH9bWY54Zw6U8yKUJXd",
+  "imgSmall": "https://gateway.pinata.cloud/ipfs/Qmb2J1BawEm9QcXyhVAKdACkkGHQbps2raNLR18qRJStM8",
+  "name": "Holdana's First NFT",
+  "supply": 50,
+  "mintAddress": "4ytWXLH5AqfCkgB6adc5ChkG25MmsZEezEUvydHHmsbm",
+  "marketAddress": "HR8cCtjGbse6mCDgCknyUYcfFYetGicn6oNaNGDEfttg",
+  "redeembable": false,
+  "keywords": [
+    "Holdana's",
+    "First",
+    "NFT"
+  ],
+  "type": "IMAGE"
   }
 ]
