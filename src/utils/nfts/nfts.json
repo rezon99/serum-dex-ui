@@ -471,5 +471,19 @@
     "redeembable": false,
     "keywords": ["BitPortrait"],
     "type": "IMAGE"
-  }
+  },
+  {
+  "img": "https://gateway.pinata.cloud/ipfs/QmScBsWY2evi6qPHYKqCuyFYgYKxKZfznQ7NNQEaSvpBht",
+  "imgSmall": "https://gateway.pinata.cloud/ipfs/QmR5vSCX7W19b8ZTPbX6DLGxL2LQA6p3d7ddz6RxWskXDY",
+  "name": "Asuka Solana",
+  "supply": 1,
+  "mintAddress": "2rxMWCvSbTYhZTRHXyc8SirWZMFQ2AEdeYEEF8v6femb",
+  "marketAddress": "FhiqrjSsQuEEe2FUMxzkwFadsAwA9ea9YMJLivEFKFbQ",
+  "redeembable": false,
+  "keywords": [
+    "Asuka",
+    "Solana"
+  ],
+  "type": "IMAGE"
+}
 ]
