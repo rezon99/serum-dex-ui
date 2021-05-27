@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d007200.chunk.css",
-    "main.js": "/static/js/main.a5cd38e0.chunk.js",
-    "main.js.map": "/static/js/main.a5cd38e0.chunk.js.map",
+    "main.css": "/static/css/main.78800e8d.chunk.css",
+    "main.js": "/static/js/main.ab77eb75.chunk.js",
+    "main.js.map": "/static/js/main.ab77eb75.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c7319a82.js",
     "runtime-main.js.map": "/static/js/runtime-main.c7319a82.js.map",
-    "static/css/2.3a0ac4c9.chunk.css": "/static/css/2.3a0ac4c9.chunk.css",
-    "static/js/2.5e99c2d7.chunk.js": "/static/js/2.5e99c2d7.chunk.js",
-    "static/js/2.5e99c2d7.chunk.js.map": "/static/js/2.5e99c2d7.chunk.js.map",
+    "static/css/2.d8f1618e.chunk.css": "/static/css/2.d8f1618e.chunk.css",
+    "static/js/2.4f3d2d97.chunk.js": "/static/js/2.4f3d2d97.chunk.js",
+    "static/js/2.4f3d2d97.chunk.js.map": "/static/js/2.4f3d2d97.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cb14000be8c1f1c264d315b13410bf4f.js": "/precache-manifest.cb14000be8c1f1c264d315b13410bf4f.js",
+    "precache-manifest.ad81c3e5064df5d7d4c787f735be00d1.js": "/precache-manifest.ad81c3e5064df5d7d4c787f735be00d1.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.3a0ac4c9.chunk.css.map": "/static/css/2.3a0ac4c9.chunk.css.map",
-    "static/css/main.0d007200.chunk.css.map": "/static/css/main.0d007200.chunk.css.map",
-    "static/js/2.5e99c2d7.chunk.js.LICENSE.txt": "/static/js/2.5e99c2d7.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.49174c73.svg"
+    "static/css/2.d8f1618e.chunk.css.map": "/static/css/2.d8f1618e.chunk.css.map",
+    "static/css/main.78800e8d.chunk.css.map": "/static/css/main.78800e8d.chunk.css.map",
+    "static/js/2.4f3d2d97.chunk.js.LICENSE.txt": "/static/js/2.4f3d2d97.chunk.js.LICENSE.txt",
+    "static/media/bonfida_waves.svg": "/static/media/bonfida_waves.c7ff066f.svg",
+    "static/media/discord.svg": "/static/media/discord.e59842c9.svg",
+    "static/media/solible-logo.svg": "/static/media/solible-logo.eff5ddb2.svg",
+    "static/media/telegram.svg": "/static/media/telegram.bbb9b4eb.svg",
+    "static/media/twitter.svg": "/static/media/twitter.ef3fca7c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c7319a82.js",
-    "static/css/2.3a0ac4c9.chunk.css",
-    "static/js/2.5e99c2d7.chunk.js",
-    "static/css/main.0d007200.chunk.css",
-    "static/js/main.a5cd38e0.chunk.js"
+    "static/css/2.d8f1618e.chunk.css",
+    "static/js/2.4f3d2d97.chunk.js",
+    "static/css/main.78800e8d.chunk.css",
+    "static/js/main.ab77eb75.chunk.js"
   ]
 }
