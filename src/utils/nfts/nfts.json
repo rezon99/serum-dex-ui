@@ -473,6 +473,19 @@
     "type": "IMAGE"
   },
   {
+  "img": "https://ipfs.io/ipfs/QmRoFasvqJ5hKVxGVoxbXpwgud7HTwowZGf7zchqhsvF8C?filename=NFT_1_Bitcoin.png",
+  "imgSmall": "https://ipfs.io/ipfs/QmRoFasvqJ5hKVxGVoxbXpwgud7HTwowZGf7zchqhsvF8C?filename=NFT_1_Bitcoin.png",
+  "name": "Avx",
+  "supply": 1000,
+  "mintAddress": "2QhVLQqQexxMEVd88bTbV8cpnM2UzDA44ooCi6V7BSD9",
+  "marketAddress": "3coCmjGjYJqSFCos3mP9zWJyVgtu1VJSQtw3kgHv8Reb",
+  "redeembable": false,
+  "keywords": [
+    "Avx"
+  ],
+  "type": "IMAGE"
+},
+{
   "img": "https://gateway.pinata.cloud/ipfs/Qmc5XBXd29b9RLUPQ3xb9SbWSaFWH9bWY54Zw6U8yKUJXd",
   "imgSmall": "https://gateway.pinata.cloud/ipfs/Qmb2J1BawEm9QcXyhVAKdACkkGHQbps2raNLR18qRJStM8",
   "name": "Holdana's First NFT",
