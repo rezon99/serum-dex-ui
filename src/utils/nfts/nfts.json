@@ -471,18 +471,5 @@
     "redeembable": false,
     "keywords": ["BitPortrait"],
     "type": "IMAGE"
-  },
-  {
-    "img": "https://gateway.pinata.cloud/ipfs/QmeZZ12y4EPfpc7jP6NrzTe6nULBUpj2XF2qmcgUJudRQP/MolaMonBg.mp4",
-    "imgSmall": "https://gateway.pinata.cloud/ipfs/QmaR2ZC9bshFSWs1NhkRHudQHuwauyUyn6S4EfPDjHeXsJ/MolaMonLow.mp4",
-    "name": "MOLAMON",
-    "supply": 2000,
-    "mintAddress": "ER8Xa8YxJLC3CFJgdAxJs46Rdhb7B3MjgbPZsVg1aAFV",
-    "marketAddress": "6FS9hgYyZi9L1q2D7Jjpioh1jcyhebYYw3EHnwpXGSXo",
-    "redeembable": false,
-    "keywords": [
-      "MOLAMON"
-    ],
-    "type": "VIDEO"
   }
 ]
