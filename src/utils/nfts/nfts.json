@@ -514,3 +514,18 @@
   "type": "VIDEO"
 }
 ]
+{
+  "img": "https://ipfs.io/ipfs/QmekHsuh3JCFGv94nrAMhpDUGSVmEWNPegQsRzVzXfrszw",
+  "imgSmall": "https://bafybeibekxw4e3kzemdm3epdysvi4ady6rlt23rmgf6wxnqyj736a6k4bm.ipfs.infura-ipfs.io/",
+  "name": "Chimera",
+  "supply": 10,
+  "mintAddress": "2RywNYkbekmkE6xtTFciyuLL2PT8yZmR3Mf4PNF6sQod",
+  "marketAddress": "HWHvQhFmJB3NUcu1aihKmrKegfVxBEHzwVX6yZCKEsi1",
+  "redeembable": false,
+  "keywords": [
+    "Chimera"
+  ],
+  "type": "IMAGE"
+}
+
+
